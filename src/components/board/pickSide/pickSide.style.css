@@ -1,0 +1,8 @@
+.radio-spacer {
+  margin: 0 4rem;
+}
+@media (max-width: 600px) {
+  .radio-spacer {
+    margin: 0 0rem;
+  }
+}
